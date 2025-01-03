@@ -1,6 +1,6 @@
 # Dynamic Sliding Puzzle Game
 
-Welcome to the **Dynamic Sliding Puzzle Game**! This game allows you to choose the size of your puzzle and slide the tiles around to solve it. Race against the clock and challenge yourself to finish in the shortest time possible! Can you solve the puzzle quickly?
+Welcome to the **Dynamic Sliding Puzzle Game**! This game allows you to choose the size of your puzzle and slide the tiles around to solve it. Race against the clock and challenge yourself to finish in the shortest time possible!
 
 ## Features
 
